@@ -1,49 +1,40 @@
-<div align="center">
+# Тимофей Мелько
 
-## 👋 Hi, I'm Timofey!
+**Студент 3 курса. Ориентирован на разработку высокопроизводительных систем и инфраструктурных решений. Активно ищу стажировку или работу в области backend-разработки и системного программирования.**
 
-![GIF](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
+## Профессиональные интересы
 
-</div>
+- Высоконагруженные распределённые системы  
+- Разработка и оптимизация backend-сервисов  
+- Автоматизация процессов  
+- Контейнеризация и управление инфраструктурой
 
-### 🧑‍🎓 About Me
+## Навыки
 
-- 🎓 **3rd-year student**
-- ⚡ Passionate about **high-performance applications** and **infrastructure**
-- 💡 Love **developing new things**
-- 🚀 Enjoy **coding** and **optimizing performance**
-- 🤖 Interested in **process automation**
+- Языки программирования: Python, C++, Rust, Go
+- Технологии и инструменты: Docker, Bash, PostgreSQL, Redis, RabitMQ, Nginx
+- Работа с Linux-средой, системное администрирование на базовом уровне
 
-### 🚀 My Projects
+## Проекты
 
-- 🔥 **[Project 1](https://github.com/egorliap/api_course_project)** - Service for the work of students and teachers (Python, PostgreSQL)
+- [`VPN Bot`](https://github.com/timamelko25/vless_bot/tree/webhook) - Telegram-бот для продажи VPN-ключей с админ-панелью, реализован на вебхуках и интеграцией с
+платежной системой.
 
-### 📄 Resume
+- [`Weather API Service`](https://github.com/timamelko25/Weather_API_Service) - Сервис предоставляет REST API для регистрации пользователей, добавления городов и получения
+текущей/почасовой погоды по координатам или названию города.
 
-- 📜 **[My Resume](https://github.com/timamelko25/assets/resume.pdf)** - Check out my latest resume
+- [`Student-Teacher Service`](https://github.com/egorliap/api_course_project) — сервис для взаимодействия студентов и преподавателей  
+  Backend-реализация на Python с использованием PostgreSQL. Поддержка ролевой модели, REST API, авторизация и регистрация пользователей.
 
-<div align="center">
+- [`Traffic Sniffer`](https://github.com/timamelko25/Traffic_Sniffer) - Анализатор сетевого трафика, который захватывает пакеты с живого сетевого интерфейса или из
+файла PCAP. Анализирует трафик и собирает статистику по потокам. Собранные данные можно
+записывать в CSV файл для дальнейшего анализа.
 
-### 🛠️ Skills
+## Резюме
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> 
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> 
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> 
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-</p>
+- [Резюме](https://github.com/timamelko25/assets/resume.pdf)
 
-### 📫 How to Reach Me?
+## Контакты
 
-<p>
-  <a href="mailto:timofey.melko@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://t.me/t_melko">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-</p>
-
-</div>
+- Email: [timofey.melko@gmail.com](mailto:timofey.melko@gmail.com)  
+- Telegram: [https://t.me/t_melko](https://t.me/t_melko)
