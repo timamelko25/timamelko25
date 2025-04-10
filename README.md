@@ -32,7 +32,7 @@
 
 ## Резюме
 
-- [Резюме](https://github.com/timamelko25/assets/resume.pdf)
+- [Резюме](https://github.com/timamelko25/timamelko25/blob/main/resume.pdf)
 
 ## Контакты
 
